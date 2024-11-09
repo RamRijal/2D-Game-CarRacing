@@ -1,3 +1,5 @@
+//Reference: https://www.youtube.com/watch?app=desktop&v=CRzFjBkzpyU//
+
 import React, { useState, useEffect, useRef } from "react";
 import styled, { keyframes } from "styled-components";
 import RedCar from "./assets/redcar.png";
